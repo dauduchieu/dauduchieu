@@ -1,1 +1,3 @@
-<a href="https://facebook.com/dauduchieu.ddh775">Facebook</a>
+![GIF](./m3xrxPO.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=dauduchieu)
